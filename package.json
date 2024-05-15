@@ -8,5 +8,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ok69123/test-hello-world"
+  },
+  "dependencies": {
+    "@0x69123/my-package": "^2.0.1"
   }
 }
