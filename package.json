@@ -1,0 +1,12 @@
+{
+  "name": "@0x69123/my-package",
+  "version": "2.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ok69123/test-hello-world"
+  }
+}
