@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+"@0x69123/my-package@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@0x69123/my-package/-/my-package-2.0.1.tgz#20b90cf5476c079cfb6df071666559d477367d74"
+  integrity sha512-05zD1uIbh442uA98R2fAKAMJBg7B5HJABj/vNx6O6VGQRhx+tHFbVnVsRk6Thsfak6kKrp2xbqgrVR7hOAiwgA==
